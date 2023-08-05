@@ -2,7 +2,7 @@
 
       Data analysis project about Refugees in the EU
 
-This is a personal project that I started in order to practice my data skills. 
+> This is a personal project that I started in order to practice my data skills.
 
 
 **Step 1: Project Scope**
@@ -24,7 +24,7 @@ Currently I'm in the data cleaning and preparation process;  handling missing va
 
 **Step 4: Create a Database**
 
-With Docker I have setup the database. 
+With Docker I have setup the database.
 Define tables to store different aspects of the data.
 
 **Step 5: Import Data into the Database**
