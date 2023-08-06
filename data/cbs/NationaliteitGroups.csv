@@ -1,0 +1,14 @@
+Id;Index;Title;Description;ParentId;DimensionId
+0;0;Totalen;"Nationaliteit:
+Het wettelijk onderdaan zijn van een bepaalde staat (staatsburgerschap).
+Personen kunnen meerdere nationaliteiten hebben.
+Om dubbeltellingen te voorkomen wordt in statistische overzichten aan personen die meerdere nationaliteiten hebben, slechts één nationaliteit toegekend.
+Daartoe worden prioriteringsregels gesteld. Die komen erop neer dat iemand met de Nederlandse nationaliteit in de statistiek steeds Nederlander is.
+Voor mensen die niet de Nederlandse nationaliteit bezitten, geldt de volgorde: nationaliteit van één van de Benelux-landen, nationaliteit van
+een staat binnen de Europese Unie, andere Europese nationaliteit, niet-Europese nationaliteit. 
+Personen die geen nationaliteit hebben, zijn staatloos. ";;Nationaliteit
+1;1;Totalen;;0;Nationaliteit
+2;2;Per continent;;;Nationaliteit
+3;3;Afrika;;2;Nationaliteit
+4;4;Azië;;2;Nationaliteit
+5;5;Europa ( exclusief Nederlands);;2;Nationaliteit
